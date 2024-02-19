@@ -5,7 +5,7 @@ The front Page
 ![front_page1](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_1.png)
 ![front_page2](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_2.png)
 ![front_page3](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_3.png)
-![front_page](
-![front_page2](
+![front_page4](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_4.png)
+![front_page5](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_5.png)
 
 
