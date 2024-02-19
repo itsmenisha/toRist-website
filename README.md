@@ -19,7 +19,7 @@ The Gallery
 
 This gallery had a cool feature that could make the individual boxes hover.
 
-<img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_6.png" alt="Gallery_6" width="400" height="200"/>
-<img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_5.png" alt="Gallery_5" width="400" height="200"/>
+<img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_6.png" alt="Gallery_6" width="350" height="300"/>
+<img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_5.png" alt="Gallery_5" width="350" height="300"/>
 
 
