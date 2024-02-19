@@ -8,4 +8,5 @@ The front Page
 ![front_page4](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_4.png)
 ![front_page5](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_5.png)
 
-
+The Heritage Page
+![Heritage](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Heritage/Heritage.png)
