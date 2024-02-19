@@ -31,5 +31,5 @@ when Clicked
 
 ## 4. Hotel Booking
 
-![Gallery_4](https://github.com/itsmenisha/Front-End-Projects/tree/main/toRist%20img/Hotel%20Booking)
+![Hotel_booking](https://github.com/itsmenisha/Front-End-Projects/tree/main/toRist%20img/Hotel%20Booking)
 
