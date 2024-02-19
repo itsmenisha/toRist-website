@@ -24,9 +24,9 @@ This is a website i created created using HTML, CSS, and basic JavaScript. It gi
 
 #### This gallery had a cool feature that could make the individual boxes hover.
 
-At rest
+<br>At rest<br>
 <img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_6.png" alt="Gallery_6" width="350" height="300"/>
-when Clicked
+<br>when Clicked<br>
 <img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_5.png" alt="Gallery_5" width="350" height="300"/>
 
 ## 4. Hotel Booking
