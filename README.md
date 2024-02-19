@@ -9,4 +9,4 @@ The front Page
 ![front_page5](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_5.png)
 
 The Heritage Page
-![Heritage](toRist img/Heritage/heritage.png)
+![Heritage]([toRist img/Heritage/heritage.png](https://github.com/itsmenisha/Front-End Projects/blob/main/toRist%20img/Heritage/heritage.png)https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Heritage/heritage.png)
