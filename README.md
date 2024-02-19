@@ -1,8 +1,8 @@
 # toRist
 This is a website i created created using HTML, CSS, and basic JavaScript. It gives information about some tourist destination in kathmandu valley.
 ## Table of content
-1.Front page
-2.The Heritage Page
+1.Front page<br>
+2.The Heritage Page<br>
 3.The Gallery
 
 ## 1. The front Page
