@@ -1,5 +1,5 @@
 # toRist
-This is a website i created created using HTML, CSS, and basic JavaScript. It gives information about some tourist destination in kathmandu valley.
+# This is a website i created created using HTML, CSS, and basic JavaScript. It gives information about some tourist destination in kathmandu valley.
 
 The front Page
 ![front_page1](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_1.png)
@@ -17,7 +17,8 @@ The Gallery
 ![Gallery_3](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_3.png)
 ![Gallery_4](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_4.png)
 
-This gallery had a cool feature that could make the individual boxes hover.
+## This gallery had a cool feature that could make the individual boxes hover.
+
 At rest
 <img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_6.png" alt="Gallery_6" width="350" height="300"/>
 when Clicked
