@@ -10,3 +10,9 @@ The front Page
 
 The Heritage Page
 ![Heritage](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Heritage/heritage.png)
+
+The Gallery
+![Gallery_1](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_1.png)
+![Gallery_2](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_2.png)
+![Gallery_3](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_3.png)
+![Gallery_4](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_4.png)
