@@ -3,7 +3,8 @@ This is a website i created created using HTML, CSS, and basic JavaScript. It gi
 ## Table of content
 1.Front page<br>
 2.Heritage Page<br>
-3.The Gallery
+3.The Gallery<br>
+4.Hotel Booking
 
 ## 1. Front Page
 ![front_page1](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Front_page/front_1.png)
@@ -28,4 +29,7 @@ At rest
 when Clicked
 <img src="https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Gallery/gallery_5.png" alt="Gallery_5" width="350" height="300"/>
 
+## 4. Hotel Booking
+
+![Gallery_4](https://github.com/itsmenisha/Front-End-Projects/tree/main/toRist%20img/Hotel%20Booking)
 
