@@ -31,5 +31,5 @@ This is a website i created created using HTML, CSS, and basic JavaScript. It gi
 
 ## 4. Hotel Booking
 
-![Hotel_booking](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Hotel%20Booking/HotelBook.png)a
+![Hotel_booking](https://github.com/itsmenisha/Front-End-Projects/blob/main/toRist%20img/Hotel%20Booking/HotelBook.png)
 
