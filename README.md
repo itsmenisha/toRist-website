@@ -6,7 +6,6 @@ This is a website i created created using HTML, CSS, and basic JavaScript. It gi
 3.The Gallery<br>
 4.Hotel Booking
  here's a link tho the video representation of this website.
-[click here](https://www.youtube.com/watch?v=Pq6xk8UAMi4&ab_channel=Tutuuruu%F0%9F%98%8B){:target="_blank"}
 <a href="https://www.youtube.com/watch?v=Pq6xk8UAMi4&ab_channel=Tutuuruu%F0%9F%98%8B" target="_blank">click here</a>
 
 ## 1. Front Page
